@@ -31,5 +31,4 @@ $ You only need to open the index.html file in any browser.
 ## Collaboration
 ***
 As a collaboration, it would be requested to provide functionality to this system that is focused on retrieving requested identification documents, which already has a UX interface.
-> It should go over several rows?
-> This is how you do it.
+
