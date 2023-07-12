@@ -1,6 +1,6 @@
 ## Table of Contents
 1. 📝 [General Info](#general-info)
-2. [Technologies](#technologies)
+2. 📊 [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
    
@@ -13,7 +13,7 @@ This is a project for the Human-Computer Interaction course. It features a varie
 
 ![Screenshot_1](https://github.com/EdgarJoel123/proyectoIHC/assets/73723298/50707149-0d00-40bd-bac8-366a47427515)
 
-## 📊 Technologies
+## Technologies
 
 ***A list of technologies used within the project:
 * [HTML5](https://lenguajehtml.com/html/)
