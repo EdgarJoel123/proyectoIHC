@@ -1,10 +1,10 @@
 ## Table of Contents
-1. [General Info](#general-info)
+1. 📝 [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
    
-📝 ###  General Info 
+###  General Info 
 ***
 This is a project for the Human-Computer Interaction course. It features a variety of styles, but it lacks functionality. It only has an intuitive interface and connected links.
 ### Screenshot
