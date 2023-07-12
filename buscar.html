@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+   <link rel = "stylesheet" href="css/style.css" type="text/css" >
+    <title>Buscar cédula</title>
+</head>
+<body>
+    
+   <header class="header">
+   <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+       
+  <a class="navbar-brand" href="index.html"><img src="img/inicio.png" height="80px" width="80px"></img>    Inicio</a>
+  <a class="navbar-brand" href="agregarPublicacion.html"><img src="img/ingresar.png" height="80px" width="80px"></img>    Publicar</a>
+       <a class="navbar-brand" href="buscar.html"><img src="img/lupa.png" height="50px" width="50px"></img>    Buscar</a>
+       <a class="navbar-brand" href="publicaciones.html"><img src="img/publicaciones.png" height="50px" width="50px"></img>    Publicaciones</a>
+      <a class="navbar-brand" href="chat.html"><img src="img/chat.png" height="50px" width="50px"></img>    Chat</a>
+      <a class="navbar-brand" href="login.html"><img src="img/logout.png" height="50px" width="50px"></img>    Logout</a>
+</nav>
+  </header>
+  <hr style="height: 20px">
+  
+  <h2>Buscador de Cédulas</h2>    
+      
+      <P>En este apartado deberá introducir los primeros 4 números de cédula de la cédula que se encuentra perdida y que probablemente se encuentre en este sitio web.
+      En caso de encontrar esa cédula, se le llevará a las publicaciones relacionadas con ese número o características relacionadas.</p>
+      Cédula:     <input type="text" size="10", maxlength="4" onkeypress="if ( isNaN( String.fromCharCode(event.keyCode) )) return false;">
+      <br>
+      <br>
+      <a href="publicaciones.html" class="btn btn-primary" role="button" aria-disabled="true" >Buscar</a>
+       
+     
+</body>
+</html>
